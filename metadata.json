@@ -1,0 +1,15 @@
+{
+  "name": "iqbal-lamp",
+  "version": "0.1.0",
+  "author": "iqbal",
+  "summary": "Install LAMP Stack on CentOS7 and Debian 8",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
